@@ -1,11 +1,8 @@
-#
-# I don't know what to comment
-#
 
 src_file = $(shell find ./ -type f -name *.c)
 
 all:
-	gcc $(src_file) 
+	gcc $(src_file) -o hello
 
 clean:
-	rm a.out -f
+	rm -f hello
