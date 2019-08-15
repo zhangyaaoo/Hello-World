@@ -8,4 +8,4 @@ clean:
 	rm -f hello
 
 run:
-	./hello
+	@./hello
