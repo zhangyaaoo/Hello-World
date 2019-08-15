@@ -6,3 +6,6 @@ all:
 
 clean:
 	rm -f hello
+
+run:
+	./hello
