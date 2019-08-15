@@ -8,7 +8,8 @@ int main(void)
 
 	c = a + b;
 
-	printf("Hello World! c = %d.\n", c);
+	printf("Hello World!\n");
+	printf("%d + %d = %d.\n", a, b, c);
 
 	return 0;
 }
