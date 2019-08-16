@@ -7,5 +7,5 @@ all:
 clean:
 	rm -f hello
 
-run:
+run: all
 	@./hello
