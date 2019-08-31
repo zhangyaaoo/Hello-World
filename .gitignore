@@ -1,5 +1,6 @@
 hello
 *.o
 *.c.pre
+*.c.s
 *.out
 *~
