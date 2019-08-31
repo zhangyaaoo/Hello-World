@@ -2,5 +2,6 @@ hello
 *.o
 *.c.pre
 *.c.s
+*.dump
 *.out
 *~
